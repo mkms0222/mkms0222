@@ -1,6 +1,6 @@
 ## Minseo👋
 
-<h4>🎓 AjouUniversity software engineering 23.03 ~ </h4>
+<h4>🎓 AjouUniversity software engineering 23.03.02 ~ </h4>
 <h4>🗺️ Living in Suwon </h4>
 <h4>😓 I am old and tired </h4>
 
@@ -9,7 +9,8 @@
 <div align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=mkms0222&theme=dracula&show_icons=true>
 </div>
-<h3 align="center">BeakJoon </h3>
+
+<h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
 <div align="center">
   <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=mkms0222>
 </div>
@@ -28,8 +29,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
-
-<br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -50,17 +49,6 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:mkms0222@ajou.ac.kr">
-    <img
-      src="https://img.shields.io/badge/mkms0222@ajou.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
 
 <br>
