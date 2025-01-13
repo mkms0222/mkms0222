@@ -8,7 +8,6 @@
 <h3 align="center">💥 Github states 💥 </h3>
 <div align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=mkms0222&theme=dracula&show_icons=true>
-  [![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?mkms0222=anuraghazra)](https://github.com/mkms0222/github-readme-stats)
 </div>
 
 <h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
