@@ -7,14 +7,7 @@
 
 <h3 align="center">💥 Github states 💥 </h3>
 <div align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=mkms0222
-       &show_icons=true
-       &theme=dracula
-       &count_private=true
-       &include_all_commits=true
-       &cache_seconds=1800"
-/>
+  <img src=https://github-readme-stats.vercel.app/api?username=mkms0222&theme=dracula&show_icons=true>
 </div>
 
 <h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
