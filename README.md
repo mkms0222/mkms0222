@@ -2,7 +2,7 @@
 
 <h4>🎓 AjouUniversity software engineering 23.03.02 ~ </h4>
 <h4>🗺️ Living in Suwon </h4>
-<h4>❤️ FRONTEND Engineering </h4>
+<h4>❤️ FRONTEND </h4>
 
 
 <h3 align="center">💥 Github states 💥 </h3>
