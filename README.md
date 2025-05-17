@@ -2,7 +2,7 @@
 
 <h4>🎓 AjouUniversity software engineering 23.03.02 ~ </h4>
 <h4>🗺️ Living in Suwon </h4>
-<h4>😓 hingguripongpong </h4>
+<h4>❤️ FRONTEND Engineering </h4>
 
 
 <h3 align="center">💥 Github states 💥 </h3>
@@ -18,7 +18,6 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
 </div>
 
@@ -45,8 +44,6 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp
 </div>
