@@ -1,51 +1,46 @@
-## Minseo👋
-
-<h4>🎓 AjouUniversity software engineering 23.03.02 ~ </h4>
-<h4>🗺️ Living in Suwon </h4>
-<h4>❤️ FRONTEND </h4>
-
-
-<h3 align="center">💥 Github states 💥 </h3>
-<div align="center">
-    <img src=https://github-readme-stats.vercel.app/api?username=mkms0222&theme=dracula&show_icons=true>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c83266,100:6f9fb8&height=270&text=Minseo's%20Github&animation=&fontColor=cbc0ce&fontSize=60" />
 </div>
 
-<h3 align="center">🧑🏻‍💻 BeakJoon 🧑🏻‍💻 </h3>
-<div align="center">
-  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=mkms0222>
-</div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
-</div>
+##  🧑‍💻 Contact me 
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+<div align= "center">
+    <div align= "center">
+        <a href=https://www.instagram.com/oasu._.w/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oasu._.w/"> </a>
+        <a href=mailto:mkms8436@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkms8436@gmail.com"> </a>
+        <a href=https://www.github.com/mkms8436> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mkms8436"> </a>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+    </div> 
+</div> <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+
+## 🛠️ Tech Stacks 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" height="60">
 </div>
+
+## 🎓 Education & Experience
+
+- Google Developer Groups on Campus(GDGoC) in Ajou university (Mar 2026 ~ Present)
+- Core Vice President. The 9th Student Council 'CORE', Dept of Software (Jan 2025 ~ Dec 2025)
+- Do-iT! Executive Member. Ajou Univ Central Club (Mar 2024 ~ Dec 2024)
+- Hantor 36th Executive Board. Ajou Univ Software Society (Jan 2024 ~ Dec 2024)
+- Ajou University. Department of Software (Mar 2021 ~ Present)
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp
-</div>
 
-<br>
+## 💻 Projects
+
+<img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [아주이벤트: 아주대학교 공지사항 및 이벤트 알림 서비스](https://github.com/AjouEvent/) (MVP 이후 참여 ~ ing)
+
+<img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [매일 상자: AI 기반 Mail 인박스 서비스](https://github.com/mailsangja) (2026-1 캡스톤디자인, 2026.03 ~ ing)
+
+<img src="https://github.com/user-attachments/assets/a416b264-209e-420b-918d-2fdcbee6aa41" width="18" /> [ImFact: AI 기반 가짜 뉴스 신뢰도 제공 플랫폼](https://github.com/project-ImFact) (2025.09 ~ 2025.12)
+
+<img src="https://github.com/user-attachments/assets/4ae1a0c5-9870-4370-a25a-38f94b30fd44" width="18" /> [onRank: 스터디 활동 관리 플랫폼](https://github.com/onRank/onRank-web.git) (2025.03 ~ 2025.06)
+
