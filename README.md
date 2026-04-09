@@ -38,9 +38,9 @@
 
 <img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [아주이벤트: 아주대학교 공지사항 및 이벤트 알림 서비스](https://github.com/AjouEvent/) (MVP 이후 참여 ~ ing)
 
-<img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [매일 상자: AI 기반 Mail 인박스 서비스](https://github.com/mailsangja) (2026-1 캡스톤디자인, 2026.03 ~ ing)
+<img src="https://github.com/user-attachments/assets/cd23ba56-4449-4297-879d-1d6c94e6544d" width="18" /> [매일 상자: AI 기반 Mail 인박스 서비스](https://github.com/mailsangja) (2026-1 캡스톤디자인, 2026.03 ~ ing)
 
-<img src="https://github.com/user-attachments/assets/a416b264-209e-420b-918d-2fdcbee6aa41" width="18" /> [ImFact: AI 기반 가짜 뉴스 신뢰도 제공 플랫폼](https://github.com/project-ImFact) (2025.09 ~ 2025.12)
+<img src="https://github.com/user-attachments/assets/2947138c-5d98-4a44-a17f-950ddb61d772" width="18" /> [ImFact: AI 기반 가짜 뉴스 신뢰도 제공 플랫폼](https://github.com/project-ImFact) (2025.09 ~ 2025.12)
 
 <img src="https://github.com/user-attachments/assets/4ae1a0c5-9870-4370-a25a-38f94b30fd44" width="18" /> [onRank: 스터디 활동 관리 플랫폼](https://github.com/onRank/onRank-web.git) (2025.03 ~ 2025.06)
 
