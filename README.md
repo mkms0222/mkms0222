@@ -8,7 +8,7 @@
 <div align= "left">
     <a href=mailto:mkms8436@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkms8436@gmail.com"> </a>
     <a href=https://www.github.com/mkms0222> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mkms0222"> </a>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minseo-kwak/">
+    <a href=https://www.linkedin.com/in/minseo-kwak/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minseo-kwak/"> </a>
 </div> <br>
 
 
