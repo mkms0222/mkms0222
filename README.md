@@ -3,29 +3,33 @@
 </div>
 
 
-##  🧑‍💻 Contact me 
+##  Contact me 
 
-<div align= "center">
-    <div align= "center">
-        <a href=https://www.instagram.com/oasu._.w/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oasu._.w/"> </a>
-        <a href=mailto:mkms8436@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkms8436@gmail.com"> </a>
-        <a href=https://www.github.com/mkms8436> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mkms8436"> </a>
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-    </div> 
+<div align= "left">
+    <a href=mailto:mkms8436@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkms8436@gmail.com"> </a>
+    <a href=https://www.github.com/mkms0222> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mkms0222"> </a>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minseo-kwak/">
 </div> <br>
 
 
-## 🛠️ Tech Stacks 
+## Tech Stacks 
 
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" height="60">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" height="60">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" height="60"> <br>
+    <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=flat-square&logo=shadcnui&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" height="60"> <br>
+    <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/github_copilot-8957E5?style=flat-square&logo=github-copilot&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" height="60">
 </div>
 
-## 🎓 Education & Experience
+## Education & Experience
 
-- Google Developer Groups on Campus(GDGoC) in Ajou university (Mar 2026 ~ Present)
+- Google Developer Groups on Campus(GDGoC) - Ajou (Mar 2026 ~ Present)
 - Core Vice President. The 9th Student Council 'CORE', Dept of Software (Jan 2025 ~ Dec 2025)
 - Do-iT! Executive Member. Ajou Univ Central Club (Mar 2024 ~ Dec 2024)
 - Hantor 36th Executive Board. Ajou Univ Software Society (Jan 2024 ~ Dec 2024)
@@ -34,7 +38,7 @@
 <br>
 
 
-## 💻 Projects
+## Projects
 
 <img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [아주이벤트: 아주대학교 공지사항 및 이벤트 알림 서비스](https://github.com/AjouEvent/) (MVP 이후 참여 ~ ing)
 
