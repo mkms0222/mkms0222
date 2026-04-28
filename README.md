@@ -44,9 +44,9 @@
 
 <img src="https://github.com/user-attachments/assets/cd23ba56-4449-4297-879d-1d6c94e6544d" width="18" /> [매일 상자: AI 기반 Mail 인박스 서비스](https://github.com/mailsangja) (2026-1 캡스톤디자인, 2026.03 ~ ing)
 
-<img src="https://github.com/user-attachments/assets/54fe59ba-afda-435e-8d48-45eaade94312" width="18" /> [CodeRamsay: 실시간 코드 리뷰 서비스](https://github.com/project-ImFact) (2025-2 웹시스템설계, 2025.09 ~ 2025.12)
+<img src="https://github.com/user-attachments/assets/54fe59ba-afda-435e-8d48-45eaade94312" width="18" /> [CodeRamsay: 실시간 코드 리뷰 서비스](https://github.com/codeRamsay/codeRamsay_FE) (2025-2 웹시스템설계, 2025.09 ~ 2025.12)
 
-<img src="https://github.com/user-attachments/assets/2947138c-5d98-4a44-a17f-950ddb61d772" width="18" /> [ImFact: AI 기반 가짜 뉴스 신뢰도 제공 플랫폼](https://github.com/codeRamsay/codeRamsay_FE) (2025.09 ~ 2025.12)
+<img src="https://github.com/user-attachments/assets/2947138c-5d98-4a44-a17f-950ddb61d772" width="18" /> [ImFact: AI 기반 가짜 뉴스 신뢰도 제공 플랫폼](https://github.com/project-ImFact) (2025.09 ~ 2025.12)
 
 <img src="https://github.com/user-attachments/assets/4ae1a0c5-9870-4370-a25a-38f94b30fd44" width="18" /> [onRank: 스터디 활동 관리 플랫폼](https://github.com/onRank/onRank-web.git) (2025.03 ~ 2025.06)
 
