@@ -9,6 +9,7 @@
     <a href=mailto:mkms8436@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkms8436@gmail.com"> </a>
     <a href=https://www.github.com/mkms0222> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mkms0222"> </a>
     <a href=https://www.linkedin.com/in/minseo-kwak/> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minseo-kwak/"> </a>
+    <a href="https://github.com/mkms0222/mkms0222/blob/main/곽민서%20포트폴리오.pdf"> <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=readthedocs&logoColor=white" alt="Portfolio"> </a>
 </div> <br>
 
 
