@@ -42,7 +42,7 @@
 
 <img src="https://github.com/user-attachments/assets/b0c82a40-822f-499c-aa39-c2e59afc6ec2" width="18" /> [아주이벤트: 아주대학교 공지사항 및 이벤트 알림 서비스](https://github.com/AjouEvent/) (MVP 이후 참여 ~ ing)
 
-<img src="https://github.com/user-attachments/assets/954e0bb1-4c8b-466c-91f3-9d86766b69b6" width="18" /> [매일 상자: AI 기반 Mail 인박스 서비스](https://github.com/mailsangja) (2026-1 캡스톤디자인, 2026.03 ~ 2026.06)
+<img src="https://github.com/user-attachments/assets/954e0bb1-4c8b-466c-91f3-9d86766b69b6" width="18" /> [메일 상자: AI 기반 Mail 인박스 서비스](https://github.com/mailsangja) (2026-1 캡스톤디자인, 2026.03 ~ 2026.06)
 
 <img src="https://github.com/user-attachments/assets/54fe59ba-afda-435e-8d48-45eaade94312" width="18" /> [CodeRamsay: 실시간 코드 리뷰 서비스](https://github.com/codeRamsay/codeRamsay_FE) (2025-2 웹시스템설계, 2025.09 ~ 2025.12)
 
